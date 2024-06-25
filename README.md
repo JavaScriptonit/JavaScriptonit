@@ -9,17 +9,10 @@ Join me on Telegram and LinkedIn
 [![Telegram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-shabunov-273161299)
 
 
-### Skills:
-
-- Devops: GitLab CI/CD, k8s, Helm, Docker, Linux, Bash, Ansible, Terraform, AWS, Prometheus, Grafana/Instana, Loki
-- Auto Testing: Functional (e2e) testing with JS + Puppeteer/Cypress and Jest
-- Load testing: JS + k6
-- Testing infrastructure: Appium, Selenoid
-
 
 ### Working on: 🚀
 
-- MTS-Bank (https://www.mtsbank.ru)
+- [![MTS-Bank Badge](https://media.licdn.com/dms/image/C4D0BAQEjJxosH0OD_w/company-logo_100_100/0/1680167752036/mts_group_logo?e=1727308800&v=beta&t=2bOIiv-obt1HJ0LSJWUXtbHZglVjJj7ozf3IKYT4ldA)](https://www.mtsbank.ru)
 
 
 ## Languages and Tools 
