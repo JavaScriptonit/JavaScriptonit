@@ -3,7 +3,7 @@ I'm a DevOps with 6+ years of experience in IT | Digital | Web Development | Sof
       
    
 ### Social media: 📡    
-Join me on Telegram and LinkedIn
+Join me on Telegram/LinkedIn/Instagram/вконтакте
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashabunov)
 [![Telegram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-shabunov-273161299)
