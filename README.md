@@ -33,10 +33,10 @@ Join me on Telegram and LinkedIn
 
 
 
-### Infrastructure:
-| terraform | AWS | k8s | helm |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform"  alt="terraform" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" alt="helm" width="55" height="55"/> |
+### Infrastructure & Environment:
+| terraform | AWS | k8s | helm | docker | Ansible |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform"  alt="terraform" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" alt="helm" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/>|
 
 
 
@@ -58,11 +58,11 @@ Join me on Telegram and LinkedIn
 
 
   
-### Environments, Testing, Other:
+### Testing & Other:
 
-| nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| Ansible | k6 | puppeteer |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg" title="k6" alt="k6" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="puppeteer" alt="puppeteer" width="55" height="55"/>|
+| nodejs | Git | Pytest | Swagger | Postman | Virtual Box | k6 | puppeteer |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg" title="k6" alt="k6" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="puppeteer" alt="puppeteer" width="55" height="55"/>|
 
 
 
