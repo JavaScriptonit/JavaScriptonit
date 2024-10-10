@@ -15,7 +15,7 @@ Join me on Telegram/LinkedIn/Instagram/вконтакте
 ### Working on: 🚀
 
 <a href="https://www.mtsbank.ru">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQEjJxosH0OD_w/company-logo_100_100/0/1680167752036/mts_group_logo?e=1727308800&v=beta&t=2bOIiv-obt1HJ0LSJWUXtbHZglVjJj7ozf3IKYT4ldA" alt="MTS-Bank Badge" width="55" height="55">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEjJxosH0OD_w/company-logo_100_100/company-logo_100_100/0/1680167752036/mts_group_logo?e=1736380800&v=beta&t=CATsCyVg04rH3pXC4JWrBtXeKfZ3cx5aXneV6-by_R4" alt="MTS-Bank Badge" width="55" height="55">
 </a>
 
 
