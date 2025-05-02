@@ -1,5 +1,5 @@
 ### About Me:    
-I'm a DevOps with 6+ years of experience in IT | Digital | Web Development | Software Development | Betting | FinTech
+I'm a DevOps with 9+ years of experience in IT | Digital | Web Development | Software Development | Betting | FinTech
       
    
 ### Social media: 📡    
